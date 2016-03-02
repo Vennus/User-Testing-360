@@ -1,0 +1,58 @@
+
+*{
+	margin: 0 auto;
+}
+body{
+	background:url("../image/large.jpg")no-repeat;
+	background-size: cover;
+    font-family: serif;
+}
+h2{
+	margin: 0 8.5% 1%;
+	border-bottom: 1px solid gray;
+}
+span {
+	color:red;
+}
+.contact{
+	margin-top: 13%;
+	background: white;
+	border:1px solid black;
+	width: 60%;
+	height: 273px;
+	border-top: 8px solid #6998CF;
+}
+.form-group {
+	width: 80%;
+	margin-bottom: 5px;
+}
+.form-control{
+	height: 20px;
+	border-radius: 0px;
+}
+.messaje{
+	width: 100%;
+	
+}
+.enviar {
+	background: #74A3DB;
+	color: white;
+	width: 20%;
+	border-radius: 5px;
+	border: none;
+	position: relative;
+	left: 17.5%;
+}
+.text-infor{
+	width: 20%;
+	border-radius: 0px;
+	position: relative;
+	left: 15%;
+}
+.text-report{
+	text-align: right;
+}
+a{
+	color:black;
+	font-size: 0.9em;
+}
